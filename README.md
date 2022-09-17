@@ -13,7 +13,7 @@ Part 2
 <br>  
 <a href="https://www.youtube.com/watch?v=eemb9ke1tIk" target="_blank"><img alt="Ezatpanah ConstraintLayout-Youtube" src="tum.jpg" width="60%"></a>
 
-edium's Article :
+Medium's Article :
 <br>
 Part 1 :<br>
 https://medium.com/@ezatpanah/mastering-constraintlayout-part-1-6a8cf0dfd3d6
